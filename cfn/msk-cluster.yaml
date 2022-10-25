@@ -1,7 +1,5 @@
 AWSTemplateFormatVersion: 2010-09-09
-
 Description: This template creates Amazon MSK Cluster with two brokers.
-
 Parameters:
   EnvironmentName:
     Description: An environment name that is prefixed to resource names
