@@ -2,7 +2,7 @@
 
 This repository include sample CloudFormation templates demonstrating AWS IoT Core rule action integration with Amazon MSK.
 
-For sake of completness, the root stack creates all required resources, such as: Amazon Virtual Private Cloud (Amazon VPC), Amazon MSK cluster, AWS IoT Core rule, AWS Secrets Manager, AWS Identity and Access Management (IAM).
+For sake of completness, the root stack creates all required resources, such as: Amazon Virtual Private Cloud (Amazon VPC), Amazon MSK cluster, AWS IoT Core rule, AWS Secrets Manager, AWS Identity and Access Management (IAM)
 
 To create all resources use the root.yaml template. It is possible to use each template seperatly, by inputing existing resources as parameters to the relevant template.
 
